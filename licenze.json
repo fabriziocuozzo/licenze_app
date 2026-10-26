@@ -1,11 +1,10 @@
 {
   "repository": "fabriziocuozzo/licenze_app",
-  "aggiornato": "2026-10-26T15:50:13.260Z",
+  "aggiornato": "2026-10-26T15:52:07.003Z",
   "messaggio": "",
   "revocate": [
     "LIC-0001",
-    "LIC-0002",
-    "LIC-0003"
+    "LIC-0002"
   ],
   "ultime_versioni": {}
 }
